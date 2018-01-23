@@ -1,0 +1,38 @@
+table, th, td, tr {
+    border: solid 1px;
+    text-align: center;
+}
+
+.divform {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.labeldiv {
+    margin-top: 5%;
+    margin-bottom: 2.5%;
+}
+
+.buttondiv {
+    margin-top: 5%;
+}
+
+.jumbotron #marque {
+    color: #a94442;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .2);
+}
+
+.jumbotron #pret {
+    color: #8a6d3b;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .2);
+}
+
+.jumbotron #partez {
+    color: #3c763d;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .2);
+}
+
+.revenir_modifier {
+    margin-top: 5%;
+}
+
